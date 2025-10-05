@@ -1,4 +1,4 @@
-# ProyectoIntegrador_Aire: Visualización Inteligente de la Calidad del Aire con AI y AR
+# ⚠️ ProyectoIntegrador_Aire: Visualización Inteligente de la Calidad del Aire con AI y AR
 Proyecto de materia de proyecto integrador para maestría MNA, Equipo 56
 
 **Proyecto Integrador | Maestría en Inteligencia Artificial Aplicada**  
@@ -8,7 +8,7 @@ Proyecto de materia de proyecto integrador para maestría MNA, Equipo 56
 
 ---
 
-## Avance2 archivos > 25MB
+## ⚠️ Avance2 archivos > 25MB
 
 Agregar a directorio para poder correr el notebook de Avance2
 
