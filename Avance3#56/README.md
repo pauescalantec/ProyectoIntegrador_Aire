@@ -10,6 +10,6 @@ Proyecto de materia de proyecto integrador para maestría MNA, Equipo 56
 
 ## Avance3 archivos > 25MB
 
-Agregar a directorio para poder correr el notebook de Avance2
+Agregar a directorio para poder correr el notebook de Avance3
 
 data_features_selected_clean.csv -> https://drive.google.com/file/d/1dawKsP7qI70Qb3x9sbIKyc2QPC5SOZuB/view?usp=sharing
